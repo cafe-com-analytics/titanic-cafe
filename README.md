@@ -1,7 +1,11 @@
-titanic-cafe
+Titanic café
 ==============================
 
-A short description of the project.
+This is just the Kaggle's Titanic challenge. We'll use this challenge to learn and knowledge about data science and data based projects.
+
+More information about the challenge can be found [here](https://www.kaggle.com/c/titanic).
+
+![Kaggle Titanic](./reports/figures/titanic_front.png "Kaggle Titanic")
 
 Project Organization
 ------------
