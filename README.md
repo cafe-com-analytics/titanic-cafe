@@ -1,55 +1,42 @@
-titanic-cafe
+Titanic café
 ==============================
 
-A short description of the project.
+This is just the Kaggle's Titanic challenge. We'll use this challenge to learn and knowledge about data science and data based projects.
 
-Project Organization
+More information about the challenge can be found [here](https://www.kaggle.com/c/titanic).
+
+![Kaggle Titanic](./reports/figures/titanic_front.png "Kaggle Titanic")
+
 ------------
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+## Diário de bordo:
+
+> **23/01/2021**
+> - Data carrers
+> https://workera.ai/
+> 
+> - Andrew Ng
+> https://medium.com/@aiii/machine-learning-diagnostics-b2256d78d51e
+> https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
+> 
+> - Sobre readme.md
+> https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+> 
+> - Inglês
+> http://www.naralschool.com/
+> 
+> - Machine learning mastery:
+> https://machinelearningmastery.com/what-is-imbalanced-classification/
+> 
+> - Python Pro
+> https://www.python.pro.br/
+> 
+> - Pandas profiling no Google Colab
+> https://medium.com/python-in-plain-english/how-to-use-pandas-profiling-on-google-colab-e34f34ff1c9f
+>
+> - Feature engine
+> https://feature-engine.readthedocs.io/en/latest/index.html
+
 
 
 --------
