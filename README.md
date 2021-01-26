@@ -11,6 +11,10 @@ More information about the challenge can be found [here](https://www.kaggle.com/
 
 ## Diário de bordo:
 
+> **25/01/2021**
+> - Comprehensive Guide on Feature Selection
+> https://www.kaggle.com/prashant111/comprehensive-guide-on-feature-selection
+>
 > **23/01/2021**
 > - Data carrers
 > https://workera.ai/
@@ -36,7 +40,6 @@ More information about the challenge can be found [here](https://www.kaggle.com/
 >
 > - Feature engine
 > https://feature-engine.readthedocs.io/en/latest/index.html
-
 
 
 --------
