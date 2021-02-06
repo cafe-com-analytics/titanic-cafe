@@ -11,14 +11,35 @@ More information about the challenge can be found [here](https://www.kaggle.com/
 
 ## Diário de bordo:
 
+>
+> **30/01/2021**
+> Beginner Kaggle Data Science Project Walk-Through (Titanic)
+> https://www.youtube.com/watch?v=I3FBJdiExcg&t=337s
+>
+> How To EASILY Get Twitter API KEY | Apply For Twitter Developers Account | Download REAL-TIME TWEETS
+> https://www.youtube.com/watch?v=vlvtqp44xoQ
+>
+> Streamlit
+> https://www.streamlit.io/
+>
+> Python : How to Save and Load ML Models
+> https://www.kaggle.com/prmohanty/python-how-to-save-and-load-ml-models
+>
+> Itaú Unibanco: How we built a CI/CD Pipeline for machine learning with online training in Kubeflow
+> https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow
+>
+> ---
+>
 > **25/01/2021**
 > - Comprehensive Guide on Feature Selection
 > https://www.kaggle.com/prashant111/comprehensive-guide-on-feature-selection
 >
+> ---
+>
 > **23/01/2021**
 > - Data carrers
 > https://workera.ai/
-> 
+>
 > - Andrew Ng
 > https://medium.com/@aiii/machine-learning-diagnostics-b2256d78d51e
 > https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
@@ -40,7 +61,7 @@ More information about the challenge can be found [here](https://www.kaggle.com/
 >
 > - Feature engine
 > https://feature-engine.readthedocs.io/en/latest/index.html
-
+>
 
 --------
 
