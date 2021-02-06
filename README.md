@@ -11,6 +11,10 @@ More information about the challenge can be found [here](https://www.kaggle.com/
 
 ## Diário de bordo:
 
+> **06/02/201**
+> Programa de cursos integrados Machine Learning for Trading
+> https://www.coursera.org/specializations/machine-learning-trading
+> Crtl+K V
 >
 > **30/01/2021**
 > Beginner Kaggle Data Science Project Walk-Through (Titanic)
