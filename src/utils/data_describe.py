@@ -71,8 +71,15 @@ class DataDescribe:
         """
 
         import pandas as pd
+        import warnings
+        
+        warnings.filterwarnings('ignore')
         
         df_temporario = df.select_dtypes(exclude=[float])
+
+        for feature in df_temporario.columns:
+            if df_temporario[feature].isnull().sum() != 0:
+                df_temporario.drop(feature, axis=1, inplace=True)
 
         matriz_cardialidade = []
 
